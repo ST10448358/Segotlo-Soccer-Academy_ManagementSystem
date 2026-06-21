@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686176229616",
+    "project_id": "segotlo-d6593",
+    "storage_bucket": "segotlo-d6593.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686176229616:android:0e3f26c51887820dbf4a35",
+        "android_client_info": {
+          "package_name": "com.example.segotlo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ib98DawDvJf0yYzbHn9Ba-qC_mkV_2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

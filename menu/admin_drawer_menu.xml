@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/admin_nav_dashboard"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/admin_nav_registrations"
+            android:icon="@drawable/ic_person"
+            android:title="Registrations" />
+        <item
+            android:id="@+id/admin_nav_manage_users"
+            android:icon="@drawable/ic_person"
+            android:title="Manage Users" />
+        <item
+            android:id="@+id/admin_nav_teams_players"
+            android:icon="@drawable/ic_sports"
+            android:title="Teams &amp; Players" />
+        <item
+            android:id="@+id/admin_nav_create_schedule"
+            android:icon="@drawable/ic_calendar"
+            android:title="Create Schedule" />
+        <item
+            android:id="@+id/admin_nav_match_fixtures"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Match Fixtures" />
+        <item
+            android:id="@+id/admin_nav_announcements"
+            android:icon="@drawable/ic_announcement"
+            android:title="Announcements" />
+        <item
+            android:id="@+id/admin_nav_send_announcement"
+            android:icon="@drawable/ic_announcement"
+            android:title="@string/send_announcement" />
+        <item
+            android:id="@+id/admin_nav_messages"
+            android:icon="@drawable/ic_email"
+            android:title="Messages" />
+    </group>
+
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/admin_nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>

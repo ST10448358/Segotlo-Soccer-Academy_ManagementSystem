@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/parent_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/parent_children"
+        android:icon="@drawable/ic_person"
+        android:title="My Children" />
+    <item
+        android:id="@+id/parent_schedule"
+        android:icon="@drawable/ic_calendar"
+        android:title="Schedule" />
+    <item
+        android:id="@+id/parent_payments"
+        android:icon="@drawable/ic_payment"
+        android:title="Payments" />
+    <item
+        android:id="@+id/parent_more"
+        android:icon="@drawable/ic_menu"
+        android:title="More" />
+</menu>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/coach_nav_dashboard"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/coach_nav_create_schedule"
+            android:icon="@drawable/ic_calendar"
+            android:title="Create Schedule" />
+        <item
+            android:id="@+id/coach_nav_record_attendance"
+            android:icon="@drawable/ic_check_circle"
+            android:title="Record Attendance" />
+        <item
+            android:id="@+id/coach_nav_player_profiles"
+            android:icon="@drawable/ic_person"
+            android:title="Player Profiles" />
+        <item
+            android:id="@+id/coach_nav_match_fixtures"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Match Fixtures" />
+        <item
+            android:id="@+id/coach_nav_announcements"
+            android:icon="@drawable/ic_announcement"
+            android:title="Announcements" />
+        <item
+            android:id="@+id/coach_nav_messages"
+            android:icon="@drawable/ic_email"
+            android:title="Messages" />
+    </group>
+
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/coach_nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>
