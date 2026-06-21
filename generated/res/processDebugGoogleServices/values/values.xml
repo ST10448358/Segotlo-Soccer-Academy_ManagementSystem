@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">686176229616</string>
+    <string name="google_api_key" translatable="false">AIzaSyB-ib98DawDvJf0yYzbHn9Ba-qC_mkV_2E</string>
+    <string name="google_app_id" translatable="false">1:686176229616:android:0e3f26c51887820dbf4a35</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB-ib98DawDvJf0yYzbHn9Ba-qC_mkV_2E</string>
+    <string name="google_storage_bucket" translatable="false">segotlo-d6593.firebasestorage.app</string>
+    <string name="project_id" translatable="false">segotlo-d6593</string>
+</resources>
